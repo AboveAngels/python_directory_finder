@@ -1,6 +1,6 @@
 # python_directory_finder
 **WiP** -- Multi-Threaded Python-based Directory Finder
-### _Current Version:_ 1.0.0 Beta
+### _Current Version:_ 1.0.0-beta
 ### Decription
 This software should be used only to test websites you own or are permitted to work on.
 I created it to search for all directories off of a given "root" directory.
