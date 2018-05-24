@@ -29,3 +29,7 @@ If you have a feature request open an issue and I will consider looking at impli
   - [ ] /everything else/
   
   - [ ] ip address obfuscation via tor
+
+### Credits
+- @first20hours for the included wordlist which is taken from google-10000-english
+- ssl.com for their list of acceptable top level domains which is included to validate against
